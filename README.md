@@ -1,5 +1,5 @@
 # Morse
 
-https://github.com/NiharikaKaria/Morse/workflows/CI/badge.svg
+https://github.com/NiharikaKaria/Morse/.github/workflows/CI/badge.svg
 
 This is a morse code encoder decoder
