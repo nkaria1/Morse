@@ -12,8 +12,8 @@ class MorseCode:
         
     def translate(self,char):
         if (char=='A' or char=='a'):
-            mc.dot()
-            mc.dash()
+            self.dot()
+            self.dash()
 
     def encode(text):
         print (text)
